@@ -1,0 +1,90 @@
+{
+    "IDjoueurs" : ["001","002","003","004","005"], 
+    "courses" : 
+    [
+        {"name": "course 1",
+         "statut":"Finished", 
+         "IDround":"001", 
+         "driverSelection":
+            [
+             {"IDjoueur": "001",
+                "IDdriver1": "01", 
+                "IDdriver2":"04", 
+                "constructor": "Ferrari", 
+                "bonusUsed": ["MazeSpin"],
+                "points": 0
+             },
+             {"IDjoueur": "002",
+                "IDdriver1": "03", 
+                "IDdriver2":"08", 
+                "constructor": "Mercedes", 
+                "bonusUsed": ["Sbinnala"],
+                "points": 0
+             },
+             {"IDjoueur": "003",
+                "IDdriver1": "08", 
+                "IDdriver2":"02", 
+                "constructor": "Red Bull", 
+                "bonusUsed": [],
+                "points": 0
+             }, 
+             {"IDjoueur": "004",
+                "IDdriver1": "02", 
+                "IDdriver2":"11", 
+                "constructor": "Red Bull", 
+                "bonusUsed": [],
+                "points": 0
+             },
+             {"IDjoueur": "005",
+                "IDdriver1": "01", 
+                "IDdriver2":"14", 
+                "constructor": "Haas", 
+                "bonusUsed": [],
+                "points": 0
+             }
+            ]
+        },
+        {"name": "course 2",
+            "statut":"TBD", 
+            "IDround":"002", 
+            "driverSelection":
+               [
+                {"IDjoueur": "001",
+                   "IDdriver1": "01", 
+                   "IDdriver2":"04", 
+                   "constructor": "Ferrari", 
+                   "bonusUsed": [],
+                   "points": 0
+                },
+                {"IDjoueur": "002",
+                   "IDdriver1": "03", 
+                   "IDdriver2":"08", 
+                   "constructor": "Mercedes", 
+                   "bonusUsed": [],
+                   "points": 0
+                },
+                {"IDjoueur": "003",
+                   "IDdriver1": "08", 
+                   "IDdriver2":"02", 
+                   "constructor": "Red Bull", 
+                   "bonusUsed": [],
+                   "points": 0
+                }, 
+                {"IDjoueur": "004",
+                   "IDdriver1": "02", 
+                   "IDdriver2":"11", 
+                   "constructor": "Red Bull", 
+                   "bonusUsed": [],
+                   "points": 0
+                },
+                {"IDjoueur": "005",
+                   "IDdriver1": "01", 
+                   "IDdriver2":"14", 
+                   "constructor": "Haas", 
+                   "bonusUsed": ["MazeSpin"],
+                   "points": 0
+                }
+               ]
+         }
+    ]
+}

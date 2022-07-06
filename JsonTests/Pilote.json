@@ -1,0 +1,10 @@
+{
+    "name":"Sergio Perez", 
+    "number":11,
+    "updated":"",
+    "season":2022, 
+    "points":0 ,
+    "price": [{"first_half_rounds": 12000},{"second_half_rounds":11000}],
+    "constructor":"Red Bull",
+    "coef":[{"first_half_rounds": 0.9},{"second_half_rounds":0}]
+}

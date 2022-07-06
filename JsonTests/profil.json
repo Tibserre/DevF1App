@@ -1,0 +1,8 @@
+{
+    "name":"Thibault", 
+    "last_name": "Serre", 
+    "mail": "tibserre@hotmail.fr", 
+    "passwd": "Admin", 
+    "color": "4EC4D4", 
+    "car":{"Model": "test", "color1":"hexCode", "color2":"hexCode"}
+}
